@@ -1,0 +1,28 @@
+_repo: Ragnarok-the-Age-of-Fire-and-Gravel_5109
+creator:
+  author:
+    agent_name: Donnelly, Ignatius
+    aliases:
+    - Boisgilbert, Edmund
+    - Donnelly, I. L. (Ignatius L.)
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '1365'
+    url: http://www.gutenberg.org/2009/agents/1365
+    wikipedia: http://en.wikipedia.org/wiki/Ignatius_Donnelly
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atlantis (Legendary place)'
+- !lcsh 'Drift'
+- !lcc 'GN'
+- !lcsh 'Comets'
+title: 'Ragnarok : the Age of Fire and Gravel'
+url: http://www.gutenberg.org/ebooks/5109
