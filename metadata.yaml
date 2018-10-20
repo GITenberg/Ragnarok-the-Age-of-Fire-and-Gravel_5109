@@ -1,5 +1,5 @@
 _repo: Ragnarok-the-Age-of-Fire-and-Gravel_5109
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Drift'
 - !lcc 'GN'
 - !lcsh 'Comets'
+- GITenberg
 title: 'Ragnarok : the Age of Fire and Gravel'
 url: http://www.gutenberg.org/ebooks/5109
